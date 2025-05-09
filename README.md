@@ -18,16 +18,14 @@ const Terry = {
 
 ```text
 💬 Programming Languages: 
-Astro                    8 mins              ███████████████████████░░   92.10 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kokos-rescue             8 mins              ███████████████████████░░   92.10 % 
-comp-prog                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2025 18:49:59 UTC
+ Last Updated on 05/09/2025 18:48:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
